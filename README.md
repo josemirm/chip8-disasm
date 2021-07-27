@@ -4,7 +4,7 @@
 This tool converts a binary Chip-8 file to a assembly text file.
 
 
-![capture](C:\Users\josemi\Repos\Rust\chip8-disasm\capture.png)
+![capture](capture.png)
 
 
 
