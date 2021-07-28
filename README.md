@@ -19,6 +19,11 @@ This program only needs two arguments:
 If there isn't any output file, it will dump the assembly code to `stdout`.
 
 
+## Download
+You can download executables from the latest release or from the next link:
+
+[chip8-disasm_Windows_64bits.exe](https://github.com/josemirm/chip8-disasm/releases/download/v0.1/chip8-disasm_Windows_64bits.exe)
+
 
 ## License
 
